@@ -11,13 +11,13 @@ This component will scrape your [MoneyDashboard](https://moneydashboard.com) acc
 The Base state for the component will use your **Net Balance**  
 
 ### Installation
-####HACS
+#### HACS
 Add this repo (https://github.com/shutupflanders/sensor.moneydashboard) to the HACS store and install from there.
 
-####Manual
+#### Manual
 Copy this folder to `<config_dir>/custom_components/moneydashboard/`.
 
-###Configuration
+### Configuration
 Add the following to your `configuration.yaml` file:
 
 ```yaml

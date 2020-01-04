@@ -37,7 +37,6 @@ _LOGGER = logging.getLogger(__name__)
 def setup_platform(hass, config, add_entities, discovery_info=None):
     """Set up the Money Dashboard component."""
     from moneydashboard import MoneyDashboard, LoginFailedException, GetAccountsListFailedException
-    logging.info(config[CONF_EMAIL])
     md = MoneyDashboard(email=config[CONF_EMAIL], password=config[CONF_PASSWORD])
     add_entities([MoneyDashboardBalances(md=md, unit_of_measurement="GBP")])
 

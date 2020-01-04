@@ -1,0 +1,1 @@
+"""Moneydashboard Net Worth Sensor."""

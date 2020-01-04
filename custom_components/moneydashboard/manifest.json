@@ -1,0 +1,8 @@
+{
+  "domain": "moneydashboard",
+  "name": "MoneyDashboard Sensor",
+  "documentation": "https://github.com/shutupflanders/sensor.moneydashboard",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": ["moneydashboard==1.0.8"]
+}

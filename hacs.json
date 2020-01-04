@@ -1,0 +1,7 @@
+{
+  "domains": ["sensor"],
+  "name": "MoneyDashboard",
+  "render_readme": true,
+  "country": "GB",
+  "homeassistant": "0.99.0"
+}

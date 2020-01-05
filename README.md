@@ -29,5 +29,9 @@ sensor:
     email: me@example.com
     password: password
 ```
+
+Restart HomeAssistant and look for your new shiny `sensor.moneydashboard_net_balance` sensor!
+
+
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
 [buymeacoffee]: https://www.buymeacoffee.com/IcV9egW

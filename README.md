@@ -1,6 +1,8 @@
 # MoneyDashboard Net Worth Sensor
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 
+[![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
+
 This component will scrape your [MoneyDashboard](https://moneydashboard.com) account for the following attributes: 
  
     * Net Balance  
@@ -27,3 +29,5 @@ sensor:
     email: me@example.com
     password: password
 ```
+[buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
+[buymeacoffee]: https://www.buymeacoffee.com/IcV9egW

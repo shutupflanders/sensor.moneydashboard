@@ -4,5 +4,5 @@
   "documentation": "https://github.com/shutupflanders/sensor.moneydashboard",
   "dependencies": [],
   "codeowners": [],
-  "requirements": ["moneydashboard==1.0.8"]
+  "requirements": ["moneydashboard==1.0.9"]
 }

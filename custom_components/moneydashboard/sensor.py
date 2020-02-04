@@ -2,7 +2,7 @@
 Support for MoneyDashboard sensors.
 
 For more details about this platform, please refer to the documentation at
-https://github.com/custom-components/sensor.moneydashboard
+https://github.com/shutupflanders/sensor.moneydashboard
 """
 
 import logging
@@ -14,7 +14,7 @@ from homeassistant.components.sensor import (PLATFORM_SCHEMA)
 from homeassistant.util import Throttle
 from homeassistant.helpers.entity import Entity
 
-__version__ = '0.1.1'
+__version__ = '0.1.2'
 
 CONF_EMAIL = 'email'
 CONF_PASSWORD = 'password'

@@ -14,7 +14,7 @@ The Base state for the component will use your **Net Balance**
 
 ### Installation
 #### HACS
-Add this repo (https://github.com/shutupflanders/sensor.moneydashboard) to the HACS store and install from there.
+This card is available in [HACS](https://github.com/custom-components/hacs) (Home Assistant Community Store)
 
 #### Manual
 Copy this folder to `<config_dir>/custom_components/moneydashboard/`.

@@ -32,6 +32,15 @@ sensor:
 
 Restart HomeAssistant and look for your new shiny `sensor.moneydashboard_net_balance` sensor!
 
+##Formatting
+After receiving advice from a user regarding the formatting "breaking" the history of the sensor, the thousands 
+separator (,) has been removed in place of just standard floats, if you would like it back for your lovelace display
+you can use the following value template
+
+```mustache
+{{ ‘{0:,.0f}’.format(states.sensor.moneydashboard_net_balance) }}
+```
+
 
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
 [buymeacoffee]: https://www.buymeacoffee.com/IcV9egW

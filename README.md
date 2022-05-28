@@ -1,5 +1,5 @@
 # MoneyDashboard Net Worth Sensor
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/hacs/integration)
 
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
